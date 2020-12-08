@@ -1,0 +1,89 @@
+COLUMN_NAME,DISTINCT_COUNT,TOTAL_COUNT,,,COLUMN_NAME,DISTINCT_COUNT,TOTAL_COUNT
+"""Company ID""",4469,4469,,,"""Company ID""",4469,4469
+"""Target Account""",0,0,,,"""Last Modified Date""",3187,4469
+"""Last Modified Date""",3187,4469,,,"""Number of decision makers""",1,4469
+"""Lead Status""",0,0,,,"""Number of blockers""",1,4469
+"""Total Revenue""",2,2,,,"""Create Date""",914,4469
+"""Postal Code""",1728,3928,,,"""Number of contacts with a buying role""",1,4469
+"""Twitter Followers""",0,0,,,"""Associated Contacts""",22,4465
+"""Company Domain Name""",0,0,,,"""Number of Pageviews""",34,4464
+"""Last Touch Converting Campaign""",1,1,,,"""Number of Sessions""",21,4464
+"""First Touch Converting Campaign""",1,1,,,"""Time First Seen""",875,4464
+"""Recent Deal Close Date""",90,94,,,"""First Contact Create Date""",872,4458
+"""Number of Pageviews""",34,4464,,,"""Number of Employees""",11,4087
+"""Number of Employees""",11,4087,,,"""Annual Revenue""",10,3956
+"""Campaign of last booking in meetings tool""",0,0,,,"""Postal Code""",1728,3928
+"""Number of decision makers""",1,4469,,,"""Year Founded""",195,3926
+"""Time of Last Session""",284,287,,,"""Original Source Data 2""",100,3682
+"""Time of First Session""",280,285,,,"""Total open deal value""",1,3468
+"""Number of blockers""",1,4469,,,"""Number of open deals""",3,3468
+"""Close Date""",90,95,,,"""Owner Assigned Date""",698,3109
+"""Ideal Customer Profile Tier""",0,0,,,"""Phone Number""",1097,1106
+"""Facebook Fans""",0,0,,,"""Number of times contacted""",21,734
+"""Associated Deals""",3,187,,,"""Last Activity Date""",678,731
+"""Last Logged Call Date""",55,55,,,"""Number of child companies""",1,709
+"""Recent Deal Amount""",2,2,,,"""Last Contacted""",583,586
+"""Number of times contacted""",21,734,,,"""Number of Form Submissions""",8,462
+"""First Conversion Date""",180,184,,,"""Last Sales Activity Date""",447,452
+"""Last Open Task Date""",86,139,,,"""Time of Last Session""",284,287
+"""Original Source Type""",0,0,,,"""Time of First Session""",280,285
+"""First Deal Created Date""",187,187,,,"""Time Last Seen""",282,285
+"""Number of Form Submissions""",8,462,,,"""Associated Deals""",3,187
+"""Medium of last booking in meetings tool""",0,0,,,"""First Deal Created Date""",187,187
+"""Facebook Company Page""",0,0,,,"""First Conversion Date""",180,184
+"""Create Date""",914,4469,,,"""Recent Conversion Date""",180,184
+"""LinkedIn Bio""",0,0,,,"""Last Open Task Date""",86,139
+"""First Conversion""",0,0,,,"""Close Date""",90,95
+"""Date of last meeting booked in meetings tool""",17,17,,,"""Days to Close""",64,95
+"""City""",0,0,,,"""Recent Deal Close Date""",90,94
+"""Name""",0,0,,,"""Last Booked Meeting Date""",78,79
+"""Number of child companies""",1,709,,,"""Last Logged Call Date""",55,55
+"""Total open deal value""",1,3468,,,"""Date of last meeting booked in meetings tool""",17,17
+"""Number of Sessions""",21,4464,,,"""Total Money Raised""",1,17
+"""Phone Number""",1097,1106,,,"""Next Activity Date""",9,16
+"""Last Sales Activity Date""",447,452,,,"""Street Address 2""",3,3
+"""Company owner""",0,0,,,"""Total Revenue""",2,2
+"""About Us""",0,0,,,"""Recent Deal Amount""",2,2
+"""Last Activity Date""",678,731,,,"""Last Touch Converting Campaign""",1,1
+"""Next Activity Date""",9,16,,,"""First Touch Converting Campaign""",1,1
+"""Source of last booking in meetings tool""",0,0,,,"""Street Address""",1,1
+"""Owner Assigned Date""",698,3109,,,"""Target Account""",0,0
+"""State/Region""",0,0,,,"""Lead Status""",0,0
+"""LinkedIn Company Page""",0,0,,,"""Twitter Followers""",0,0
+"""Total Money Raised""",1,17,,,"""Company Domain Name""",0,0
+"""Associated Contacts""",22,4465,,,"""Campaign of last booking in meetings tool""",0,0
+"""Original Source Data 1""",0,0,,,"""Ideal Customer Profile Tier""",0,0
+"""Recent Conversion Date""",180,184,,,"""Facebook Fans""",0,0
+"""Number of contacts with a buying role""",1,4469,,,"""Original Source Type""",0,0
+"""COVID Hiring Freeze?""",0,0,,,"""Medium of last booking in meetings tool""",0,0
+"""Original Source Data 2""",100,3682,,,"""Facebook Company Page""",0,0
+"""Lifecycle Stage""",0,0,,,"""LinkedIn Bio""",0,0
+"""Last Booked Meeting Date""",78,79,,,"""First Conversion""",0,0
+"""Last Contacted""",583,586,,,"""City""",0,0
+"""Street Address""",1,1,,,"""Name""",0,0
+"""Recent Conversion""",0,0,,,"""Company owner""",0,0
+"""HubSpot Team""",0,0,,,"""About Us""",0,0
+"""Twitter Bio""",0,0,,,"""Source of last booking in meetings tool""",0,0
+"""Web Technologies""",0,0,,,"""State/Region""",0,0
+"""Country/Region""",0,0,,,"""LinkedIn Company Page""",0,0
+"""First Contact Create Date""",872,4458,,,"""Original Source Data 1""",0,0
+"""Time Zone""",0,0,,,"""COVID Hiring Freeze?""",0,0
+"""Time Last Seen""",282,285,,,"""Lifecycle Stage""",0,0
+"""Time First Seen""",875,4464,,,"""Recent Conversion""",0,0
+"""Type""",0,0,,,"""HubSpot Team""",0,0
+"""Website URL""",0,0,,,"""Twitter Bio""",0,0
+"""Year Founded""",195,3926,,,"""Web Technologies""",0,0
+"""Twitter Handle""",0,0,,,"""Country/Region""",0,0
+"""Google Plus Page""",0,0,,,"""Time Zone""",0,0
+"""Days to Close""",64,95,,,"""Type""",0,0
+"""Description""",0,0,,,"""Website URL""",0,0
+"""Annual Revenue""",10,3956,,,"""Twitter Handle""",0,0
+"""Parent Company""",0,0,,,"""Google Plus Page""",0,0
+"""Industry""",0,0,,,"""Description""",0,0
+"""Object create date/time""",0,0,,,"""Parent Company""",0,0
+"""Street Address 2""",3,3,,,"""Industry""",0,0
+"""Is Public""",0,0,,,"""Object create date/time""",0,0
+"""Number of open deals""",3,3468,,,"""Is Public""",0,0
+"""Associated Company ID""",0,0,,,"""Associated Company ID""",0,0
+"""Associated Company""",0,0,,,"""Associated Company""",0,0
+,,0,,,,,0
