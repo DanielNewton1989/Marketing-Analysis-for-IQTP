@@ -1,0 +1,121 @@
+Industry,Overall Count,Perc of Total,Deal Count,Perc of Total Deal,Perc Difference
+Computer Software,866,29.1,33.0,55.0,189.0
+Financial Services,191,6.4,4.0,6.7,105.0
+Staffing and Recruiting,130,4.4,3.0,5.0,114.0
+Medical Devices,16,0.5,2.0,3.3,660.0
+Transportation/Trucking/Railroad,15,0.5,2.0,3.3,660.0
+Accounting,21,0.7,1.0,1.7,243.0
+Marketing and Advertising,59,2.0,1.0,1.7,85.0
+Non-Profit Organization Management,31,1.0,1.0,1.7,170.0
+Hospital & Health Care,117,3.9,1.0,1.7,44.0
+Higher Education,90,3.0,1.0,1.7,57.0
+Gambling & Casinos,8,0.3,1.0,1.7,567.0
+Electrical/Electronic Manufacturing,15,0.5,1.0,1.7,340.0
+Publishing,23,0.8,1.0,1.7,212.0
+Real Estate,38,1.3,1.0,1.7,131.0
+Construction,37,1.2,1.0,1.7,142.0
+Management Consulting,114,3.8,1.0,1.7,45.0
+Venture Capital & Private Equity,74,2.5,1.0,1.7,68.0
+Telecommunications,29,1.0,1.0,1.7,170.0
+Automotive,29,1.0,1.0,1.7,170.0
+Apparel & Fashion,14,0.5,1.0,1.7,340.0
+Utilities,13,0.4,1.0,1.7,425.0
+Sporting Goods,2,0.1,0.0,0.0,0.0
+Museums and Institutions,5,0.2,0.0,0.0,0.0
+Warehousing,1,0.0,0.0,0.0,
+Outsourcing/Offshoring,4,0.1,0.0,0.0,0.0
+Online Media,4,0.1,0.0,0.0,0.0
+Oil & Energy,20,0.7,0.0,0.0,0.0
+Wholesale,7,0.2,0.0,0.0,0.0
+Nanotechnology,1,0.0,0.0,0.0,
+Music,5,0.2,0.0,0.0,0.0
+Motion Pictures and Film,5,0.2,0.0,0.0,0.0
+Packaging and Containers,6,0.2,0.0,0.0,0.0
+Mining & Metals,7,0.2,0.0,0.0,0.0
+Military,1,0.0,0.0,0.0,
+Mental Health Care,2,0.1,0.0,0.0,0.0
+Medical Practice,2,0.1,0.0,0.0,0.0
+Media Production,4,0.1,0.0,0.0,0.0
+Media & Internet,1,0.0,0.0,0.0,
+Mechanical or Industrial Engineering,9,0.3,0.0,0.0,0.0
+Wine and Spirits,4,0.1,0.0,0.0,0.0
+Market Research,1,0.0,0.0,0.0,
+Package/Freight Delivery,1,0.0,0.0,0.0,
+Performing Arts,3,0.1,0.0,0.0,0.0
+Paper & Forest Products,1,0.0,0.0,0.0,
+Semiconductors,6,0.2,0.0,0.0,0.0
+Security and Investigations,2,0.1,0.0,0.0,0.0
+Sports,3,0.1,0.0,0.0,0.0
+Retail,45,1.5,0.0,0.0,0.0
+Restaurants,11,0.4,0.0,0.0,0.0
+Research,2,0.1,0.0,0.0,0.0
+Renewables & Environment,7,0.2,0.0,0.0,0.0
+Religious Institutions,3,0.1,0.0,0.0,0.0
+Recreational Facilities and Services,2,0.1,0.0,0.0,0.0
+Textiles,2,0.1,0.0,0.0,0.0
+Tobacco,2,0.1,0.0,0.0,0.0
+Translation and Localization,1,0.0,0.0,0.0,
+Public Relations and Communications,6,0.2,0.0,0.0,0.0
+Public Policy,1,0.0,0.0,0.0,
+Maritime,1,0.0,0.0,0.0,
+Printing,4,0.1,0.0,0.0,0.0
+Primary/Secondary Education,4,0.1,0.0,0.0,0.0
+Photography,2,0.1,0.0,0.0,0.0
+Philanthropy,1,0.0,0.0,0.0,
+Pharmaceuticals,22,0.7,0.0,0.0,0.0
+Professional Training & Coaching,7,0.2,0.0,0.0,0.0
+Libraries,1,0.0,0.0,0.0,
+Machinery,4,0.1,0.0,0.0,0.0
+Computer Games,76,2.6,0.0,0.0,0.0
+Entertainment,21,0.7,0.0,0.0,0.0
+Education Management,19,0.6,0.0,0.0,0.0
+E-Learning,16,0.5,0.0,0.0,0.0
+Design,1,0.0,0.0,0.0,
+Defense & Space,41,1.4,0.0,0.0,0.0
+Cosmetics,3,0.1,0.0,0.0,0.0
+Consumer Services,5,0.2,0.0,0.0,0.0
+Consumer Goods,13,0.4,0.0,0.0,0.0
+Consumer Electronics,11,0.4,0.0,0.0,0.0
+Computer Networking,8,0.3,0.0,0.0,0.0
+Computer Hardware,19,0.6,0.0,0.0,0.0
+Computer & Network Security,4,0.1,0.0,0.0,0.0
+Luxury Goods & Jewelry,5,0.2,0.0,0.0,0.0
+Civil Engineering,16,0.5,0.0,0.0,0.0
+Civic & Social Organization,16,0.5,0.0,0.0,0.0
+Chemicals,9,0.3,0.0,0.0,0.0
+Business Supplies and Equipment,1,0.0,0.0,0.0,
+Building Materials,4,0.1,0.0,0.0,0.0
+Broadcast Media,16,0.5,0.0,0.0,0.0
+Biotechnology,21,0.7,0.0,0.0,0.0
+Banking,37,1.2,0.0,0.0,0.0
+Aviation & Aerospace,18,0.6,0.0,0.0,0.0
+Architecture & Planning,6,0.2,0.0,0.0,0.0
+Animation,1,0.0,0.0,0.0,
+Environmental Services,6,0.2,0.0,0.0,0.0
+Events Services,1,0.0,0.0,0.0,
+Facilities Services,4,0.1,0.0,0.0,0.0
+Food & Beverages,27,0.9,0.0,0.0,0.0
+Logistics and Supply Chain,16,0.5,0.0,0.0,0.0
+Airlines/Aviation,8,0.3,0.0,0.0,0.0
+"Leisure, Travel & Tourism",8,0.3,0.0,0.0,0.0
+Legal Services,11,0.4,0.0,0.0,0.0
+Law Practice,6,0.2,0.0,0.0,0.0
+Investment Management,13,0.4,0.0,0.0,0.0
+Investment Banking,7,0.2,0.0,0.0,0.0
+International Trade and Development,2,0.1,0.0,0.0,0.0
+International Affairs,1,0.0,0.0,0.0,
+Insurance,58,1.9,0.0,0.0,0.0
+Information Technology and Services,74,2.5,0.0,0.0,0.0
+Information Services,7,0.2,0.0,0.0,0.0
+Industrial Automation,1,0.0,0.0,0.0,
+Individual & Family Services,2,0.1,0.0,0.0,0.0
+Human Resources,96,3.2,0.0,0.0,0.0
+Hospitality,12,0.4,0.0,0.0,0.0
+"Health, Wellness and Fitness",25,0.8,0.0,0.0,0.0
+Government Relations,2,0.1,0.0,0.0,0.0
+Government Administration,24,0.8,0.0,0.0,0.0
+"Glass, Ceramics & Concrete",1,0.0,0.0,0.0,
+Furniture,1,0.0,0.0,0.0,
+Fund-Raising,1,0.0,0.0,0.0,
+Food Production,10,0.3,0.0,0.0,0.0
+Wireless,2,0.1,0.0,0.0,0.0
