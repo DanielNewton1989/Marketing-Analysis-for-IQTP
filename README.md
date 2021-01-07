@@ -9,7 +9,7 @@ IQTalent Partners is a top 30 recruitment search firm and growing. There is no c
 By providing support to marketing, I will be able to bring the first in-house data analysis to the company.
 My goal would be able to show the business value in creating a data-intensive team that would help capture and analyze data to make decisions.
 
-## Data Question(s)
+##  Analysis
 
 I will be doing a full analysis of all of our contacts in the specific areas: Industry, annual revenue, company size and location.
 
@@ -17,7 +17,9 @@ I will also analyze data of companies that are using IQTP recruiting services.
  
 ## Product
 
-The final product will be a full analysis of the marketing data we have captured. This will be displayed in a PowerBI dashboard for visualization.
+The final product will be a full analysis of the marketing data we have captured. This will be displayed in a PowerBI dashboard for visualization listed here:
+
+http://bit.ly/iqtpdanielnewtondashboard
  
 ## Data Sources
 
