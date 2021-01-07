@@ -17,9 +17,11 @@ I will also analyze data of companies that are using IQTP recruiting services.
  
 ## Product
 
-The final product will be a full analysis of the marketing data we have captured. This will be displayed in a PowerBI dashboard for visualization listed here:
+The final product will be a full analysis of the marketing data we have captured. This will be displayed in a PowerBI dashboard for visualization and a slideshow listed here:
 
 http://bit.ly/iqtpdanielnewtondashboard
+
+https://bit.ly/iqtpdanielnewtonslideshow
  
 ## Data Sources
 
